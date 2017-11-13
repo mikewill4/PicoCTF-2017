@@ -4,9 +4,7 @@ I was told there was something at IP shell2017.picoctf.com with port 58626. How 
 ## Solution:
 We are given a domain and port, so we can pretty easily open up a webshell with netcat.
 ***
-`$ nc shell2017.picoctf.com 58626`
-***
-`Yay! You made it!`
+`$ nc shell2017.picoctf.com 58626 *** Yay! You made it!`
 ***
 `Take a flag!`
 ***
