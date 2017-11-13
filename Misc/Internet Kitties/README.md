@@ -7,6 +7,6 @@ We are given a domain and port, so we can pretty easily open up a webshell with 
     $ nc shell2017.picoctf.com 58626
     Yay! You made it!
     Take a flag!
-    86c3b6dc83b85a2e67f0c163dd525cb0`
+    86c3b6dc83b85a2e67f0c163dd525cb0
 ***
 Therefore, flag is: `86c3b6dc83b85a2e67f0c163dd525cb0` 
