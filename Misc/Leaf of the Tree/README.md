@@ -4,7 +4,7 @@
 ## Solution:
 The description says it all! In the webshell, cd into /problems/10f7c1d3e9fa2d4fc95555530ea97ec5. Then type cd trunk and continue to tab complete until there is no trunk directory. At this point you should be in the directory with the flag!
 ***
-    cat flag
+    $ cat flag
     88636e09e72bafb444e7f6a8105dbc5d
 ***
 Therefore, flag is: 88636e09e72bafb444e7f6a8105dbc5d
