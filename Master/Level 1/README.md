@@ -18,9 +18,9 @@ I followed the link to the website and was presented with a text field and "Subm
          http_req.open("POST", "login", true);
          http_req.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
          http_req.onreadystatechange = function() {//Call a function when the state changes.
-  	    if(http_req.readyState == 4 && http_req.status == 200) {
-                document.getElementById("res").innerHTML = http_req.responseText;
-            }
+  	     if(http_req.readyState == 4 && http_req.status == 200) {
+                 document.getElementById("res").innerHTML = http_req.responseText;
+             }
         }
         http_req.send(params);
     }
