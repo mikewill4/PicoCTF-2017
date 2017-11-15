@@ -7,7 +7,7 @@ I followed the link to the website and was presented with a text field and "Subm
     //Validate the password. TBD!
     function validate(pword){
     //TODO: Implement me
-        return true;
+        return false;
     }
 
     //Make an ajax request to the server
