@@ -42,7 +42,6 @@ into my favorite crypto website: quipqiup.com.
 ***
     THE FLAG IS IFONLYMODERNCRYPTO?ASLI?ETHIS...
 ***
-    quipqiup.com didn't do ALL of the work for me, since those 2 ?'s are wrong,
-    but I can tell what the flag should be. 
+quipqiup.com didn't do ALL of the work for me, since those 2 ?'s are wrong, but I can tell what the flag should be. 
 ***
 Therefore, flag is: `IFONLYMODERNCRYPTOWASLIKETHIS` 
