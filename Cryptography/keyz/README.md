@@ -6,8 +6,8 @@ This is a pretty straightforward question. There is a LOT of webpages that will
 tell you how to generate the public key for this challenge. Here is how I did
 it:
 ***
-ssh-keygen -t rsa
-cat ~/.ssh/id_rsa.pub > authorized_keys
-ssh shell2017.picoctf.com
-*==
+    ssh-keygen -t rsa
+    cat ~/.ssh/id_rsa.pub > authorized_keys
+    ssh shell2017.picoctf.com
+==*
 Flag: `who_needs_pwords_anyways` 
