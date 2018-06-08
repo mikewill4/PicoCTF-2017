@@ -9,5 +9,5 @@ it:
 ssh-keygen -t rsa
 cat ~/.ssh/id_rsa.pub > authorized_keys
 ssh shell2017.picoctf.com
-***
+*==
 Flag: `who_needs_pwords_anyways` 
