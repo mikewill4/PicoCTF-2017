@@ -8,4 +8,4 @@ with binwalk.
     $ binwalk -e flag.zip
 ***
 And just like that binwalk was able to extract a flag.png
-![Flag]()
+![Flag](https://github.com/mikewill4/picoCTF/blob/master/2018/Forensics/Warmup%201/flag.jpg)
