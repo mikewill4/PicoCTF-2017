@@ -5,4 +5,4 @@
 I think this was supposed to be a magic bytes challenge where you would need to
 alter the bytes of the image to correspond to the correct bytes for png files.
 However, I downloaded the image and it was simply the flag...
-[Flag](https://github.com/mikewill4/picoCTF/blob/master/2018/Forensics/Warmup%202/flag.png)
+![Flag](https://github.com/mikewill4/picoCTF/blob/master/2018/Forensics/Warmup%202/flag.png)
