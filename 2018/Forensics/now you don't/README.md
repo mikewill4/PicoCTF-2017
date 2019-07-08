@@ -12,4 +12,5 @@ values. With the following values I was able to reveal the flag:
 * Brightness: -36
 * Contrast: 39
 
-Updated picture: nowYouDont_updated.png
+Updated picture:
+[nowYouDont_updated.png](https://github.com/mikewill4/picoCTF/blob/master/2018/Forensics/now%20you%20don't/nowYouDont_updated.png)
