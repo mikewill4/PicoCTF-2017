@@ -1,7 +1,7 @@
 # Secret Agent
-# Description
+## Description
 >Here's a little website that hasn't fully been finished. But I heard google gets all your info anyway. http://2018shell.picoctf.com:46162
-# Solution
+## Solution
 When attempting to view the flag, I got an error message about how I wasn't
 google. So I did a quick search on "how to browse as google" and was able to
 find a [bot simulator](http://www.botsimulator.com/) website that allows you to

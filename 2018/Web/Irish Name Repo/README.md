@@ -1,7 +1,7 @@
 # Irish Name Repo
-# Description
+## Description
 >There is a website running at http://2018shell.picoctf.com:59464 (link). Do you think you can log us in? Try to see if you can login!
-# Solution
+## Solution
 If you navigate to the support page, you will notice a comment about SQL errors.
 This gives away that this challenge involves a SQL injection on the admin login
 page. By simplying googling for SQL injection examples, I was able to find one
