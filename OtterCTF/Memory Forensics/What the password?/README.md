@@ -47,6 +47,6 @@ Next I used the offsets for \SystemRoot\System32\Config\SAM and \REGISTRY\MACHIN
 ***
 	$ ./vol.py -f OtterCTF.vmem --profile=Win7SP1x64 hashdump -y 0xfffff8a000024010 -s 0xfffff8a0016d4010 > hashes.txt
 ***
-Awesome! Now I just need to use hashcat to crack the hash for Rick's password. I used [md5decrypt](https://md5decrypt.net/en/Ntlm/#answer) and was able to get the flag.
+Awesome! Now I just need to use [md5decrypt](https://md5decrypt.net/en/Ntlm/#answer) to crack the has for Rick's password.
 
 Flag: CTF{MortyIsReallyAnOtter}
