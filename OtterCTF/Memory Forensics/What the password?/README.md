@@ -43,7 +43,7 @@ After getting the profile, I dumped the hives.
 		0xfffff8a002090010 0x000000000b92b010 \??\C:\Users\Rick\ntuser.dat
 		0xfffff8a0020ad410 0x000000000db41410 \??\C:\Users\Rick\AppData\Local\Microsoft\Windows\UsrClass.dat
 ***
-	Next I used the offsets for \SystemRoot\System32\Config\SAM and \REGISTRY\MACHINE\SYSTEM to dump the password hashes.
+Next I used the offsets for \SystemRoot\System32\Config\SAM and \REGISTRY\MACHINE\SYSTEM to dump the password hashes.
 ***
 	$ ./vol.py -f OtterCTF.vmem --profile=Win7SP1x64 hashdump -y 0xfffff8a000024010 -s 0xfffff8a0016d4010 > hashes.txt
 ***
